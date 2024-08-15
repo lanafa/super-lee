@@ -52,3 +52,5 @@ This project is a supermarket management system developed as part of an academic
 ## Design Documentation
 Detailed design documents, including the class diagram and system architecture, can be found in the `docs` folder.
 
+## License
+* This project is developed as part of an academic course and is subject to course policies regarding code sharing and reuse.
