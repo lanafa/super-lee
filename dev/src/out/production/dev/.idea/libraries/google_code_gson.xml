@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="google.code.gson" type="repository">
+    <properties maven-id="com.google.code.gson:gson:2.10.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+<<<<<<< HEAD
+</component>
+=======
+</component>
+</component>
+<library name="sqlite-jdbc" type="repository">
+  <properties maven-id="sqlite-jdbc-3.41.2.1.jar" />
+  <CLASSES>
+    <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.41.2.1.jar!/" />
+  </CLASSES>
+</library>
+>>>>>>> pizza
